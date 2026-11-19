@@ -13,7 +13,7 @@
 | Project Category | Embedded Systems / Electrical Engineering |
 | Microcontroller | ESP32-WROOM-32D |
 
-**Project Repository:** `https://github.com/YOUR_USERNAME/grid-sense-fyp-190403015-olorede`
+**Project Repository:** `https://github.com/jasmondWorks/grid-sense-fyp-190403015-olorede`
 
 ---
 
