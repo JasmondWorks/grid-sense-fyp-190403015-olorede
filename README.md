@@ -1,5 +1,5 @@
 # Grid Sense
-### Smart Sub-Distribution Board Electrical Load Control System for Institutional Buildings
+### Load Control System Using a Smart Distribution Board
 
 **Final Year Project | University of Lagos**
 
